@@ -24,7 +24,7 @@ class HomePage extends StatelessWidget {
                   textAlign: TextAlign.center,
                   style: TextStyle(
                       fontSize: 24,
-                      color: Colors.deepPurple,
+                      color: Colors.black,
                       fontFamily: 'Raleway',
                       fontWeight: FontWeight.bold),
                 ),
@@ -34,7 +34,7 @@ class HomePage extends StatelessWidget {
                   textAlign: TextAlign.center,
                   style: TextStyle(
                       fontSize: 20,
-                      color: Colors.deepPurple,
+                      color: Colors.black,
                       fontFamily: 'Raleway',
                       fontWeight: FontWeight.bold),
                 ),
@@ -53,7 +53,7 @@ class HomePage extends StatelessWidget {
                     Padding(padding: EdgeInsets.all(10)),
                     Icon(
                       Icons.phone,
-                      color: Colors.purple,
+                      color: Colors.black,
                     ),
                     SizedBox(
                       width: 40,
@@ -79,7 +79,7 @@ class HomePage extends StatelessWidget {
                     Padding(padding: EdgeInsets.all(10)),
                     Icon(
                       Icons.email,
-                      color: Colors.purple,
+                      color: Colors.black,
                     ),
                     SizedBox(
                       width: 40,
